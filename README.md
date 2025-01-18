@@ -51,7 +51,7 @@ Follow these steps to set up and run the Library Management System on your local
 
 ### 1. Clone or Download the Repository
 
-- Clone the repository using Git:
+Clone the repository using Git:
   ```bash
   git clone https://github.com/Prathamesh-Hajare/library-management-system.git
   ```
